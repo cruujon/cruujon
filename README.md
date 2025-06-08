@@ -1,6 +1,6 @@
-- 🐉 Hi, I’m cruujon.eth
-- 👀 I’m a nerd of network and Ethereum
-- 💬 My philosophy is to be well-grounded and build the positive-sum product myself. 
+- 🐈 Hi, I’m cruujon.eth
+- A nerd of network and Ethereum
+- 🚩 My philosophy is to be well-grounded and build entirely on my own. 
 
 <!---
 cruujon/cruujon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
