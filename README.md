@@ -1,5 +1,5 @@
 - 🐈 Hi, I’m cruujon.eth
-- A nerd of network and Ethereum
+- A nerd of computer science and decentralized infrastructure such as Ethereum
 - 🚩 My philosophy is to be well-grounded and build entirely on my own. 
 
 <!---
