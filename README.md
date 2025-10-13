@@ -80,8 +80,6 @@ Committed to increasing Ethereum's geographic and validator decentralization, es
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cruujon&theme=dark)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=cruujon&theme=dark&no-frame=true&column=3&margin-w=15&margin-h=15)
-
 ![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=cruujon&theme=react-dark&hide_border=true&area=true)
 
 ![GitHub Activity](https://github-readme-stats.vercel.app/api/wakatime?username=cruujon&theme=dark&hide_border=true)
