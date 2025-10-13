@@ -47,11 +47,9 @@ Selected as [**Obol Staking Mastery**](https://x.com/Obol_Collective) educator i
 
 ## 🌏 Ecosystem Contributions
 
-### Research & Speaking
-- **Consensus layer deep-dives:** [Thread 1](https://x.com/cruujon/status/1937790551082033326) | [Thread 2](https://x.com/cruujon/status/1906660031388614762)
-
 ### Education & Mentorship
-- **Obol Staking Mastery educator** — Teaching DVT/Charon operations in Asia
+- **Obol Staking Mastery educator** — Teaching DVT/Charon operations in Asia　 [Thread 1](https://x.com/cruujon/status/1937790551082033326) | [Thread 2](https://x.com/cruujon/status/1906660031388614762)
+
 - **Protocol Camp lecturer** — Bootcamp for early protocol founders by [Hashed](https://x.com/cruujon/status/1971621954533896684) (Asia's leading crypto VC)
 - **3-4 years** of hands-on crypto incubator/accelerator experience
 
