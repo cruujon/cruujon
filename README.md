@@ -72,9 +72,6 @@ Committed to increasing Ethereum's geographic and validator decentralization, es
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cruujon&show_icons=true&theme=dark&hide_border=true&locale=ja)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cruujon&layout=compact&theme=dark&hide_border=true&locale=ja)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cruujon&theme=dark&hide_border=true)
 
