@@ -51,10 +51,6 @@ Selected as [**Obol Staking Mastery**](https://x.com/Obol_Collective) educator i
 ## 🌏 Ecosystem Contributions
 
 ### Research & Speaking
-- **[Beacon Labs](https://beaconlabs.io/)** (Fracton R&D): Leading research on consensus mechanisms and pluralistic funding
-  - Received **Optimism grant** for governance analysis
-  - **Main speaker at Devcon 7** presenting public goods funding research
-  - Published analyses on grant distribution mechanisms and DAO sustainability
 - **Consensus layer deep-dives:** [Thread 1](https://x.com/cruujon/status/1937790551082033326) | [Thread 2](https://x.com/cruujon/status/1906660031388614762)
 
 ### Education & Mentorship
