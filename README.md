@@ -8,11 +8,9 @@ Building resilient Ethereum infrastructure and sustainable coordination mechanis
 Deep-diving into consensus layer mechanisms and validator infrastructure:
 - **Consensus Layer:** Casper FFG, LMD-GHOST, Inclusion Lists, Based Rollups, pre-confirmation designs & MEV trade-offs
 - **Validator Infrastructure:** Solo validator operations, DVT (Obol Charon), Lido CSM, client diversity, slashing protection (EIP-3076), monitoring & incident response
-- **Public Goods Funding:** Pluralistic funding mechanisms (QF, Retro Funding, Protocol Guild), governance analysis, outcome-specific allocation models
 
 **Protocol Incubation**  
-Core operator at [**Fracton Ventures**](https://x.com/wecandaoit) — Japan's first Ethereum-focused incubator:
-- Supported **50+ early-stage Ethereum protocols** from design to mainnet ([Alumni Projects](https://www.notion.so/Fracton-Alumni-Projects-DB-1a505ee3829380a1af68fa60debb17ea))
+Devrel at [**Fracton Ventures**](https://x.com/wecandaoit) — Japan's first Ethereum-focused incubator:
 - Product definition, mechanism design, go-to-market strategy, governance setup
 - Organize [**Ethereum Meetup Tokyo**](https://www.ethtokyo.org/) and co-host [**ETH Tokyo**](https://www.ethtokyo.org/)
 - Run [**DAO TOKYO**](https://dao-tokyo.xyz/) — connecting global DAO founders and core contributors
