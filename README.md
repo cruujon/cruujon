@@ -33,11 +33,6 @@ Selected as [**Obol Staking Mastery**](https://x.com/Obol_Collective) educator i
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 
-![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-green?style=for-the-badge&logo=github)
-![OSS](https://img.shields.io/badge/OSS-Active%20Contributor-blue?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-Profile%20Owner-black?style=for-the-badge&logo=github)
-
-![Ethereum](https://img.shields.io/badge/Ethereum-Protocol%20Researcher-627EEA?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Validator](https://img.shields.io/badge/Validator-Solo%20Staker-FF6B6B?style=for-the-badge&logo=bitcoin&logoColor=white)
 ![DVT](https://img.shields.io/badge/DVT-Obol%20Educator-00D4AA?style=for-the-badge&logo=ethereum&logoColor=white)
 
