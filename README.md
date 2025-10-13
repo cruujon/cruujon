@@ -64,23 +64,13 @@ Committed to increasing Ethereum's geographic and validator decentralization, es
 - Cultural advocacy for decentralization values in societies historically accepting of centralized control
 - Building censorship-resistant, fault-tolerant validator infrastructure
 
-## 🎯 Core Mission
-
-**Decentralized. Differential. Defensive.**
-
-Ship research into practice — from protocol ideas → validator-grade operations → governance mechanisms that fund what actually sustains Ethereum.
-
-Prioritizing:
-- **Decentralization:** More solo validators, safer DVT clusters, healthier client diversity
-- **Differential thinking:** Pluralistic funding that respects diverse value systems
-- **Defensive acceleration:** Building resilient infrastructure that hardens as it scales
 
 ---
 
 ## 🔗 Links
 
 **Personal:** [@cruujon](https://x.com/cruujon)  
-**Organizations:** [Fracton Ventures](https://x.com/wecandaoit) | [Beacon Labs](https://x.com/beaconlabs_io) | [Obol Collective](https://x.com/Obol_Collective)  
+**Organizations:** [Fracton Ventures](https://x.com/wecandaoit)| [Obol Collective](https://x.com/Obol_Collective)  
 **Events:** [ETH Tokyo](https://www.ethtokyo.org/) | [DAO TOKYO](https://dao-tokyo.xyz/)
 
 ---
