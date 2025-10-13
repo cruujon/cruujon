@@ -25,6 +25,14 @@ Selected as [**Obol Staking Mastery**](https://x.com/Obol_Collective) educator i
 
 ## 🛠️ Tech Stack
 
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+
 **Ethereum Infrastructure**
 - **Execution Clients:** Geth, Nethermind
 - **Consensus Clients:** Lighthouse, Teku, Nimbus
@@ -75,6 +83,18 @@ Prioritizing:
 **Personal:** [@cruujon](https://x.com/cruujon)  
 **Organizations:** [Fracton Ventures](https://x.com/wecandaoit) | [Beacon Labs](https://x.com/beaconlabs_io) | [Obol Collective](https://x.com/Obol_Collective)  
 **Events:** [ETH Tokyo](https://www.ethtokyo.org/) | [DAO TOKYO](https://dao-tokyo.xyz/)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cruujon&show_icons=true&theme=dark&hide_border=true&locale=ja)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cruujon&layout=compact&theme=dark&hide_border=true&locale=ja)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cruujon&theme=dark&hide_border=true)
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cruujon&theme=dark)
 
 ---
 
