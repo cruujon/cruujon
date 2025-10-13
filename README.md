@@ -1,4 +1,4 @@
-# 👋 Ethereum Protocol Researcher & Solo Validator Educator
+# Ethereum Protocol Researcher & Solo Validator Educator
 
 Building resilient Ethereum infrastructure and sustainable coordination mechanisms.
 
