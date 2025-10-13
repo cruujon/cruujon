@@ -8,7 +8,6 @@ Building resilient Ethereum infrastructure and sustainable coordination mechanis
 Deep-diving into consensus layer mechanisms and validator infrastructure:
 - **Consensus Layer:** Casper FFG, LMD-GHOST, Inclusion Lists, Based Rollups, pre-confirmation designs & MEV trade-offs
 - **Validator Infrastructure:** Solo validator operations, DVT (Obol Charon), Lido CSM, client diversity, slashing protection (EIP-3076), monitoring & incident response
-- **Public Goods Funding:** Pluralistic funding mechanisms (QF, Retro Funding, Protocol Guild), governance analysis, outcome-specific allocation models
 
 **Protocol Incubation**  
 Core operator at [**Fracton Ventures**](https://x.com/wecandaoit) — Japan's first Ethereum-focused incubator:
@@ -48,10 +47,6 @@ Selected as [**Obol Staking Mastery**](https://x.com/Obol_Collective) educator i
 ## 🌏 Ecosystem Contributions
 
 ### Research & Speaking
-- **[Beacon Labs](https://beaconlabs.io/)** (Fracton R&D): Leading research on consensus mechanisms and pluralistic funding
-  - Received **Optimism grant** for governance analysis
-  - **Main speaker at Devcon 7** presenting public goods funding research
-  - Published analyses on grant distribution mechanisms and DAO sustainability
 - **Consensus layer deep-dives:** [Thread 1](https://x.com/cruujon/status/1937790551082033326) | [Thread 2](https://x.com/cruujon/status/1906660031388614762)
 
 ### Education & Mentorship
@@ -81,8 +76,8 @@ Prioritizing:
 ## 🔗 Links
 
 **Personal:** [@cruujon](https://x.com/cruujon)  
-**Organizations:** [Fracton Ventures](https://x.com/wecandaoit) | [Beacon Labs](https://x.com/beaconlabs_io) | [Obol Collective](https://x.com/Obol_Collective)  
-**Events:** [ETH Tokyo](https://www.ethtokyo.org/) | [DAO TOKYO](https://dao-tokyo.xyz/)
+**Organizations:** [Fracton Ventures](https://x.com/wecandaoit) | [Obol Collective](https://x.com/Obol_Collective)  
+**Community:** [ETH Tokyo](https://www.ethtokyo.org/) | [DAO TOKYO](https://dao-tokyo.xyz/)
 
 ---
 
