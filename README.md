@@ -1,4 +1,4 @@
-# 👋 Ethereum Protocol Researcher & Solo Validator Educator
+# Ethereum Protocol Researcher & Solo Validator Educator
 
 Building resilient Ethereum infrastructure and sustainable coordination mechanisms.
 
@@ -8,14 +8,11 @@ Building resilient Ethereum infrastructure and sustainable coordination mechanis
 Deep-diving into consensus layer mechanisms and validator infrastructure:
 - **Consensus Layer:** Casper FFG, LMD-GHOST, Inclusion Lists, Based Rollups, pre-confirmation designs & MEV trade-offs
 - **Validator Infrastructure:** Solo validator operations, DVT (Obol Charon), Lido CSM, client diversity, slashing protection (EIP-3076), monitoring & incident response
-- **Public Goods Funding:** Pluralistic funding mechanisms (QF, Retro Funding, Protocol Guild), governance analysis, outcome-specific allocation models
 
 **Protocol Incubation**  
-Core operator at [**Fracton Ventures**](https://x.com/wecandaoit) — Japan's first Ethereum-focused incubator:
-- Supported **50+ early-stage Ethereum protocols** from design to mainnet ([Alumni Projects](https://www.notion.so/Fracton-Alumni-Projects-DB-1a505ee3829380a1af68fa60debb17ea))
+Devrel at [**Fracton Ventures**](https://x.com/wecandaoit) — Japan's first Ethereum-focused incubator:
 - Product definition, mechanism design, go-to-market strategy, governance setup
-- Organize [**Ethereum Meetup Tokyo**](https://www.ethtokyo.org/) and co-host [**ETH Tokyo**](https://www.ethtokyo.org/)
-- Run [**DAO TOKYO**](https://dao-tokyo.xyz/) — connecting global DAO founders and core contributors
+- Co-Organize [**Ethereum Meetup Tokyo**](https://www.ethtokyo.org/) and co-host [**ETH Tokyo**](https://www.ethtokyo.org/)
 
 **Validator Education & Operations**  
 Selected as [**Obol Staking Mastery**](https://x.com/Obol_Collective) educator in Asia:
@@ -33,11 +30,6 @@ Selected as [**Obol Staking Mastery**](https://x.com/Obol_Collective) educator i
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 
-![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-green?style=for-the-badge&logo=github)
-![OSS](https://img.shields.io/badge/OSS-Active%20Contributor-blue?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-Profile%20Owner-black?style=for-the-badge&logo=github)
-
-![Ethereum](https://img.shields.io/badge/Ethereum-Protocol%20Researcher-627EEA?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Validator](https://img.shields.io/badge/Validator-Solo%20Staker-FF6B6B?style=for-the-badge&logo=bitcoin&logoColor=white)
 ![DVT](https://img.shields.io/badge/DVT-Obol%20Educator-00D4AA?style=for-the-badge&logo=ethereum&logoColor=white)
 
@@ -55,15 +47,9 @@ Selected as [**Obol Staking Mastery**](https://x.com/Obol_Collective) educator i
 
 ## 🌏 Ecosystem Contributions
 
-### Research & Speaking
-- **[Beacon Labs](https://beaconlabs.io/)** (Fracton R&D): Leading research on consensus mechanisms and pluralistic funding
-  - Received **Optimism grant** for governance analysis
-  - **Main speaker at Devcon 7** presenting public goods funding research
-  - Published analyses on grant distribution mechanisms and DAO sustainability
-- **Consensus layer deep-dives:** [Thread 1](https://x.com/cruujon/status/1937790551082033326) | [Thread 2](https://x.com/cruujon/status/1906660031388614762)
-
 ### Education & Mentorship
-- **Obol Staking Mastery educator** — Teaching DVT/Charon operations in Asia
+- **Obol Staking Mastery educator** — Teaching DVT/Charon operations in Asia　 [Thread 1](https://x.com/cruujon/status/1937790551082033326) | [Thread 2](https://x.com/cruujon/status/1906660031388614762)
+
 - **Protocol Camp lecturer** — Bootcamp for early protocol founders by [Hashed](https://x.com/cruujon/status/1971621954533896684) (Asia's leading crypto VC)
 - **3-4 years** of hands-on crypto incubator/accelerator experience
 
@@ -73,23 +59,13 @@ Committed to increasing Ethereum's geographic and validator decentralization, es
 - Cultural advocacy for decentralization values in societies historically accepting of centralized control
 - Building censorship-resistant, fault-tolerant validator infrastructure
 
-## 🎯 Core Mission
-
-**Decentralized. Differential. Defensive.**
-
-Ship research into practice — from protocol ideas → validator-grade operations → governance mechanisms that fund what actually sustains Ethereum.
-
-Prioritizing:
-- **Decentralization:** More solo validators, safer DVT clusters, healthier client diversity
-- **Differential thinking:** Pluralistic funding that respects diverse value systems
-- **Defensive acceleration:** Building resilient infrastructure that hardens as it scales
 
 ---
 
 ## 🔗 Links
 
 **Personal:** [@cruujon](https://x.com/cruujon)  
-**Organizations:** [Fracton Ventures](https://x.com/wecandaoit) | [Beacon Labs](https://x.com/beaconlabs_io) | [Obol Collective](https://x.com/Obol_Collective)  
+**Organizations:** [Fracton Ventures](https://x.com/wecandaoit)| [Obol Collective](https://x.com/Obol_Collective)  
 **Events:** [ETH Tokyo](https://www.ethtokyo.org/) | [DAO TOKYO](https://dao-tokyo.xyz/)
 
 ---
