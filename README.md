@@ -8,6 +8,7 @@ Building resilient Ethereum infrastructure and sustainable coordination mechanis
 Deep-diving into consensus layer mechanisms and validator infrastructure:
 - **Consensus Layer:** Casper FFG, LMD-GHOST, Inclusion Lists, Based Rollups, pre-confirmation designs & MEV trade-offs
 - **Validator Infrastructure:** Solo validator operations, DVT (Obol Charon), Lido CSM, client diversity, slashing protection (EIP-3076), monitoring & incident response
+- **Public Goods Funding:** Pluralistic funding mechanisms (QF, Retro Funding, Protocol Guild), governance analysis, outcome-specific allocation models
 
 **Protocol Incubation**  
 Core operator at [**Fracton Ventures**](https://x.com/wecandaoit) — Japan's first Ethereum-focused incubator:
@@ -32,6 +33,14 @@ Selected as [**Obol Staking Mastery**](https://x.com/Obol_Collective) educator i
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 
+![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-green?style=for-the-badge&logo=github)
+![OSS](https://img.shields.io/badge/OSS-Active%20Contributor-blue?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-Profile%20Owner-black?style=for-the-badge&logo=github)
+
+![Ethereum](https://img.shields.io/badge/Ethereum-Protocol%20Researcher-627EEA?style=for-the-badge&logo=ethereum&logoColor=white)
+![Validator](https://img.shields.io/badge/Validator-Solo%20Staker-FF6B6B?style=for-the-badge&logo=bitcoin&logoColor=white)
+![DVT](https://img.shields.io/badge/DVT-Obol%20Educator-00D4AA?style=for-the-badge&logo=ethereum&logoColor=white)
+
 **Ethereum Infrastructure**
 - **Execution Clients:** Geth, Nethermind
 - **Consensus Clients:** Lighthouse, Teku, Nimbus
@@ -47,6 +56,10 @@ Selected as [**Obol Staking Mastery**](https://x.com/Obol_Collective) educator i
 ## 🌏 Ecosystem Contributions
 
 ### Research & Speaking
+- **[Beacon Labs](https://beaconlabs.io/)** (Fracton R&D): Leading research on consensus mechanisms and pluralistic funding
+  - Received **Optimism grant** for governance analysis
+  - **Main speaker at Devcon 7** presenting public goods funding research
+  - Published analyses on grant distribution mechanisms and DAO sustainability
 - **Consensus layer deep-dives:** [Thread 1](https://x.com/cruujon/status/1937790551082033326) | [Thread 2](https://x.com/cruujon/status/1906660031388614762)
 
 ### Education & Mentorship
@@ -76,8 +89,8 @@ Prioritizing:
 ## 🔗 Links
 
 **Personal:** [@cruujon](https://x.com/cruujon)  
-**Organizations:** [Fracton Ventures](https://x.com/wecandaoit) | [Obol Collective](https://x.com/Obol_Collective)  
-**Community:** [ETH Tokyo](https://www.ethtokyo.org/) | [DAO TOKYO](https://dao-tokyo.xyz/)
+**Organizations:** [Fracton Ventures](https://x.com/wecandaoit) | [Beacon Labs](https://x.com/beaconlabs_io) | [Obol Collective](https://x.com/Obol_Collective)  
+**Events:** [ETH Tokyo](https://www.ethtokyo.org/) | [DAO TOKYO](https://dao-tokyo.xyz/)
 
 ---
 
@@ -90,6 +103,12 @@ Prioritizing:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cruujon&theme=dark&hide_border=true)
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cruujon&theme=dark)
+
+![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=cruujon&theme=react-dark&hide_border=true&area=true)
+
+![GitHub Activity](https://github-readme-stats.vercel.app/api/wakatime?username=cruujon&theme=dark&hide_border=true)
+
+![Repository Stats](https://github-readme-stats.vercel.app/api/pin/?username=cruujon&repo=cruujon&theme=dark&hide_border=true)
 
 ---
 
