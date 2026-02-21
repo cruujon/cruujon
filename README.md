@@ -12,7 +12,6 @@ Deep-diving into consensus layer mechanisms and validator infrastructure:
 **Protocol Incubation**  
 Devrel at [**Fracton Ventures**](https://x.com/wecandaoit) — Japan's first Ethereum-focused incubator:
 - Product definition, mechanism design, go-to-market strategy, governance setup
-- Co-Organize [**Ethereum Meetup Tokyo**](https://www.ethtokyo.org/) and co-host [**ETH Tokyo**](https://www.ethtokyo.org/)
 
 **Validator Education & Operations**  
 Selected as [**Obol Staking Mastery**](https://x.com/Obol_Collective) educator in Asia:
