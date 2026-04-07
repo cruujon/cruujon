@@ -28,7 +28,7 @@
 
 
 ### Other Experience
-- **Obol Staking Mastery** — Teaching DVT/Charon operations in Asia　 [Thread 1](https://x.com/cruujon/status/1937790551082033326) | [Thread 2](https://x.com/cruujon/status/1906660031388614762)
+- **Obol Staking Mastery** — Served as a technical Educator for Asian Ethereum Builders about　Ethereum Staking & DVT/Charon operations　 [Thread 1](https://x.com/cruujon/status/1937790551082033326) | [Thread 2](https://x.com/cruujon/status/1906660031388614762)
 - **External Judge at Crecimiento Startup World Cup** X ( https://x.com/crecimientoar ) - 
 - **Lecturer at Hashed's Protocol Camp** — Served as a Lecturer at Bootcamp for early protocol founders by [Hashed](https://x.com/cruujon/status/1971621954533896684) (Asia's leading crypto VC)
 - **3-4 years** of hands-on crypto incubator/accelerator experience
