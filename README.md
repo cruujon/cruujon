@@ -1,23 +1,3 @@
-# Ethereum Protocol Researcher & Solo Validator Educator
-
-Building resilient Ethereum infrastructure and sustainable coordination mechanisms.
-
-## 🔬 What I Do
-
-**Ethereum Protocol Research**  
-Deep-diving into consensus layer mechanisms and validator infrastructure:
-- **Consensus Layer:** Casper FFG, LMD-GHOST, Inclusion Lists, Based Rollups, pre-confirmation designs & MEV trade-offs
-- **Validator Infrastructure:** Solo validator operations, DVT (Obol Charon), Lido CSM, client diversity, slashing protection (EIP-3076), monitoring & incident response
-
-**Protocol Incubation**  
-Devrel at [**Fracton Ventures**](https://x.com/wecandaoit) — Japan's first Ethereum-focused incubator:
-- Product definition, mechanism design, go-to-market strategy, governance setup
-
-**Validator Education & Operations**  
-Selected as [**Obol Staking Mastery**](https://x.com/Obol_Collective) educator in Asia:
-- Teaching solo-validator & DVT (Obol Charon) setup across APAC
-- Writing comprehensive Japanese-language operator playbooks (DKG, cluster lockfiles, mev-boost hygiene, key ceremonies)
-- Running production validators with battle-tested monitoring (Prometheus/Grafana/Alertmanager) and incident runbooks
 
 ## 🛠️ Tech Stack
 
@@ -33,6 +13,8 @@ Selected as [**Obol Staking Mastery**](https://x.com/Obol_Collective) educator i
 ![DVT](https://img.shields.io/badge/DVT-Obol%20Educator-00D4AA?style=for-the-badge&logo=ethereum&logoColor=white)
 
 **Ethereum Infrastructure**
+- **x402**
+- **ERC8004, 8183, 8126,8021**
 - **Execution Clients:** Geth, Nethermind
 - **Consensus Clients:** Lighthouse, Teku, Nimbus
 - **DVT:** Obol Charon, cluster operations, DKG ceremonies
@@ -48,15 +30,9 @@ Selected as [**Obol Staking Mastery**](https://x.com/Obol_Collective) educator i
 
 ### Education & Mentorship
 - **Obol Staking Mastery educator** — Teaching DVT/Charon operations in Asia　 [Thread 1](https://x.com/cruujon/status/1937790551082033326) | [Thread 2](https://x.com/cruujon/status/1906660031388614762)
-
-- **Protocol Camp lecturer** — Bootcamp for early protocol founders by [Hashed](https://x.com/cruujon/status/1971621954533896684) (Asia's leading crypto VC)
+- **External Judge at Crecimient Startup World Cup** - 
+- **Lecturer at Hashed** — Bootcamp for early protocol founders by [Hashed](https://x.com/cruujon/status/1971621954533896684) (Asia's leading crypto VC)
 - **3-4 years** of hands-on crypto incubator/accelerator experience
-
-### Geographic Decentralization
-Committed to increasing Ethereum's geographic and validator decentralization, especially in Japan:
-- Expanding solo staker knowledge and DVT adoption in APAC
-- Cultural advocacy for decentralization values in societies historically accepting of centralized control
-- Building censorship-resistant, fault-tolerant validator infrastructure
 
 
 ---
@@ -64,9 +40,6 @@ Committed to increasing Ethereum's geographic and validator decentralization, es
 ## 🔗 Links
 
 **Personal:** [@cruujon](https://x.com/cruujon)  
-**Organizations:** [Fracton Ventures](https://x.com/wecandaoit)| [Obol Collective](https://x.com/Obol_Collective)  
-**Events:** [ETH Tokyo](https://www.ethtokyo.org/) | [DAO TOKYO](https://dao-tokyo.xyz/)
-
 ---
 
 ## 📊 GitHub Stats
