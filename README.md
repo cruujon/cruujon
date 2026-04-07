@@ -26,7 +26,6 @@
 - **Backend:** Node.js/TypeScript services, REST/GraphQL APIs
 - **DevOps:** Docker, Ansible, GitHub Actions, monitoring stacks
 
-##  Ecosystem Contributions
 
 ### Other Experience
 - **Obol Staking Mastery** — Teaching DVT/Charon operations in Asia　 [Thread 1](https://x.com/cruujon/status/1937790551082033326) | [Thread 2](https://x.com/cruujon/status/1906660031388614762)
