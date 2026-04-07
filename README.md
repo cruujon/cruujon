@@ -14,7 +14,7 @@
 
 **Ethereum Infrastructure**
 - **x402**
-- **ERC8004, 8183, 8126,8021**
+- **Ethereum*Agent Protocol: ERC8004, 8183, 8126, 8021**
 - **Execution Clients:** Geth, Nethermind
 - **Consensus Clients:** Lighthouse, Teku, Nimbus
 - **DVT:** Obol Charon, cluster operations, DKG ceremonies
