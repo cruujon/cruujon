@@ -28,8 +28,8 @@
 
 ##  Ecosystem Contributions
 
-### Education & Mentorship
-- **Obol Staking Mastery educator** — Teaching DVT/Charon operations in Asia　 [Thread 1](https://x.com/cruujon/status/1937790551082033326) | [Thread 2](https://x.com/cruujon/status/1906660031388614762)
+### Experience outside of work
+- **Obol Staking Mastery** — Teaching DVT/Charon operations in Asia　 [Thread 1](https://x.com/cruujon/status/1937790551082033326) | [Thread 2](https://x.com/cruujon/status/1906660031388614762)
 - **External Judge at Crecimient Startup World Cup** - 
 - **Lecturer at Hashed** — Bootcamp for early protocol founders by [Hashed](https://x.com/cruujon/status/1971621954533896684) (Asia's leading crypto VC)
 - **3-4 years** of hands-on crypto incubator/accelerator experience
