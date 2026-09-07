@@ -30,7 +30,10 @@
 
 ## Other Experience
 
+
 * **Ethereum Foundation Builder Fellow**
+* **OpenAI Startup Competition Winner**
+* **Stripe Agentic Commerce Competition Winner**
 * **15× global hackathon winner**
 * **Obol Staking Master** — Selected as 1 of 7 worldwide from thousands of applicants; researched Ethereum staking and DVT
 * **Lecturer, Hashed Protocol Camp** — Taught blockchain infrastructure and protocol development to early-stage founders
