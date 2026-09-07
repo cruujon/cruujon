@@ -12,26 +12,32 @@
 ![Validator](https://img.shields.io/badge/Validator-Solo%20Staker-FF6B6B?style=for-the-badge&logo=bitcoin&logoColor=white)
 ![DVT](https://img.shields.io/badge/DVT-Obol%20Educator-00D4AA?style=for-the-badge&logo=ethereum&logoColor=white)
 
-**Ethereum Infrastructure**
-- **x402**
-- **Ethereum*Agent Protocol: ERC8004, 8183, 8126, 8021**
-- **Execution Clients:** Geth, Nethermind
-- **Consensus Clients:** Lighthouse, Teku, Nimbus
-- **DVT:** Obol Charon, cluster operations, DKG ceremonies
-- **MEV:** mev-boost, relay policies, builder/proposer separation
+## Expertise
 
-**Development**
-- **Smart Contracts:** Solidity, Hardhat, Foundry
-- **Frontend:** Next.js, React, TypeScript, wagmi/viem, RainbowKit
-- **Backend:** Node.js/TypeScript services, REST/GraphQL APIs
-- **DevOps:** Docker, Ansible, GitHub Actions, monitoring stacks
+* **Agent Evaluation & ML:** behavioral simulation, impact evaluation, causal inference, experimentation, attribution
+* **Agent Infrastructure:** API/MCP discovery, selection, execution, agent analytics
+* **Machine Payments:** x402, stablecoins, pay-per-use APIs, machine-to-machine commerce
+* **Attestation & Verification:** cryptographic attestations, signatures, provenance, credentials
+* **Ethereum Infrastructure:** staking, DVT, MEV, execution/consensus clients
 
+## Tech Stack
 
-### Other Experience
-- **Obol Staking Mastery** — Served as a technical Educator for Asian Ethereum Builders about　Ethereum Staking & DVT/Charon operations　 [Thread 1](https://x.com/cruujon/status/1937790551082033326) | [Thread 2](https://x.com/cruujon/status/1906660031388614762)
-- **External Judge at Crecimiento Startup World Cup** X ( https://x.com/crecimientoar ) - 
-- **Lecturer at Hashed's Protocol Camp** — Served as a Lecturer at Bootcamp for early protocol founders by [Hashed](https://x.com/cruujon/status/1971621954533896684) (Asia's leading crypto VC)
-- **3-4 years** of hands-on crypto incubator/accelerator experience
+* **Ethereum × Agents:** x402, ERC-8004, ERC-8183, ERC-8126, ERC-8021
+* **Ethereum Infra:** Geth, Nethermind, Lighthouse, Teku, Nimbus, Obol Charon, mev-boost
+* **Smart Contracts:** Solidity, Foundry, Hardhat
+* **Backend / Data:** Python, Node.js, TypeScript, REST/GraphQL
+* **Frontend:** Next.js, React, wagmi/viem
+* **Infra:** Docker, Ansible, GitHub Actions
+
+## Other Experience
+
+* **Ethereum Foundation Builder Fellow**
+* **15× global hackathon winner**
+* **Obol Staking Master** — Selected as 1 of 7 worldwide from thousands of applicants; researched Ethereum staking and DVT
+* **Lecturer, Hashed Protocol Camp** — Taught blockchain infrastructure and protocol development to early-stage founders
+* **External Judge, Crecimiento Startup World Cup**
+* **3+ years in crypto/AI venture R&D & incubation** across blockchain infrastructure, machine payments, cryptography, verification, and technical mentorship
+
 
 
 ---
