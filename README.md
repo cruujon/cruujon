@@ -10,7 +10,6 @@
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 
 ![Validator](https://img.shields.io/badge/Validator-Solo%20Staker-FF6B6B?style=for-the-badge&logo=bitcoin&logoColor=white)
-![DVT](https://img.shields.io/badge/DVT-Obol%20Educator-00D4AA?style=for-the-badge&logo=ethereum&logoColor=white)
 
 ## Expertise
 
@@ -23,7 +22,7 @@
 ## Tech Stack
 
 * **Ethereum × Agents:** x402, ERC-8004, ERC-8183, ERC-8126, ERC-8021
-* **Ethereum Infra:** Geth, Nethermind, Lighthouse, Teku, Nimbus, Obol Charon, mev-boost
+* **Ethereum Infra:** Geth, Nethermind, Lighthouse, Teku, Nimbus, mev-boost
 * **Smart Contracts:** Solidity, Foundry, Hardhat
 * **Backend / Data:** Python, Node.js, TypeScript, REST/GraphQL
 * **Frontend:** Next.js, React, wagmi/viem
